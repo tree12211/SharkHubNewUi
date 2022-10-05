@@ -1,2 +1,0 @@
-# SharkHubNewUi
-SharkHubNewUi
